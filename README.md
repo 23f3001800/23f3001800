@@ -3,13 +3,12 @@
 <!-- ============================= -->
 
 <h1 align="center">
-  👋 Hi, I'm Vikas.  am a Data Science undergraduate student at **IIT Madras (Expected 2027)**  
-passionate about building intelligent AI systems using Machine Learning and Deep Learning.
+  👋 Hi, I'm Vikas. 
 </h1>
 
-<h3 align="center">
+<h5 align="center">
   🚀 currecntly seeking for - AI Engineer Intern | Machine Learning Engineer Intern | Full-Stack AI Developer Intern
-</h3>
+</h5>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Deep+Learning+Specialist;NLP+%7C+Time+Series+%7C+Computer+Vision;Building+Intelligent+End-to-End+Systems;Always+Learning+%26+Shipping+🚀" />
