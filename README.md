@@ -18,7 +18,7 @@
 
 ## 🧠 About Me
 
-🎓 IITM BS Degree – Data Science(Expected 2027)
+🎓 Student at IITM BS Degree – Data Science(Expected 2027)
 🤖 AI Engineer passionate about building intelligent, scalable systems  
 📈 Experienced in Deep Learning, NLP, Forecasting & Full-Stack AI Applications  
 ⚡ Strong foundation in Mathematics, Optimization & Model Deployment  
@@ -38,7 +38,7 @@ I specialize in designing **end-to-end AI systems** — from data pipelines to p
 
 ---
 
-# 🛠️ Tech Stack (AI Engineer Level)
+# 🛠️ Tech Stack
 
 ## 👨‍💻 Programming Languages
 - Python (Advanced)
