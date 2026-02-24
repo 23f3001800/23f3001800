@@ -182,6 +182,7 @@ To become a high-impact **AI Engineer** building intelligent systems that:
 - 🧠 Kaggle: https://kaggle.com/vikas25s
 - 🤗 Hugging Face: https://huggingface.co/VIKAS25S
 - 📧 Email: iitianvikas25@gmail.com
+- Google developer: https://g.dev/developervikas
 
 ---
 
