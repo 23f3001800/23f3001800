@@ -81,9 +81,14 @@ Full-stack Flask + Vue app with scalable backend structure.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23f3001800&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f3001800&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=23f3001800&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f3001800&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=23f3001800&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ---
 
