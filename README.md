@@ -1,94 +1,111 @@
-<h1 align="center">Vikas</h1>
+<!-- ============================= -->
+<!-- 🚀 VIKAS | AI BUILDER README -->
+<!-- ============================= -->
+
+<h1 align="center">👋 Hi, I'm Vikas</h1>
 
 <p align="center">
-AI Systems Engineer
+Building AI systems • Shipping ML projects • Learning in public 🚀
 </p>
 
 <p align="center">
-Designing and shipping production-oriented machine learning systems.
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Systems+Builder;Deep+Learning+%7C+NLP+%7C+Time+Series;Full-Stack+ML+Engineer;Ship.+Measure.+Improve." />
 </p>
 
 ---
 
-## Focus
+## 🧠 About
 
-- Deep Learning Architectures  
-- NLP & Sequence Modeling  
-- Time-Series Forecasting  
-- ML Systems & Deployment  
-- Scalable Backend Design  
+🎓 IITM BS – Data Science (2027)  
+💡 I build end-to-end AI systems — from raw data to deployed applications.  
+⚙️ Focused on practical ML, system design, and scalable model deployment.
 
----
-
-## Selected Work
-
-**Protein Secondary Structure Prediction**  
-Bi-LSTM and sequence models for Q3/Q8 classification.  
-Optimized token-level F1 with balanced training strategies.
-
-**Cinema Demand Forecasting**  
-Time-series modeling using booking and POS signals.  
-Feature engineering + validation-driven modeling.
-
-**Comment Classification System**  
-Text embeddings combined with structured metadata.  
-Production-style training and evaluation pipeline.
-
-**Smart Parking System**  
-Flask + Vue full-stack architecture.  
-Modular backend with scalable API design.
+This GitHub is where I:
+- Experiment
+- Build real systems
+- Optimize models
+- Deploy ideas
 
 ---
 
-## Technology
+## 🚀 What You'll Find Here
+
+- 🤖 Deep Learning experiments
+- 📊 Time-series forecasting systems
+- 💬 NLP classification pipelines
+- 🌐 Full-stack AI apps (Flask + Vue)
+- 🏗️ ML system design & deployment setups
+- 📦 Model training + evaluation workflows
+
+---
+
+## 🛠️ Tech I Use
 
 **Languages**  
-Python • SQL • JavaScript  
+Python • SQL • JavaScript • Java  
 
-**Machine Learning**  
-PyTorch • Transformers • Scikit-learn • LightGBM  
-
-**Systems**  
-Flask • FastAPI • Docker • GitHub Actions  
+**ML & DL**  
+PyTorch • TensorFlow • Scikit-learn • LightGBM • XGBoost  
+Hugging Face Transformers  
 
 **Data**  
-PostgreSQL • Redis • Pandas • NumPy  
+Pandas • NumPy • Feature Engineering • Cross-validation  
+
+**Deployment**  
+Flask • FastAPI • Docker • GitHub Actions  
+
+**Databases**  
+PostgreSQL • MySQL • SQLite • Redis  
 
 **Environment**  
-Linux • Git • Jupyter  
+Linux • Git • VS Code • Jupyter  
 
 ---
 
-## GitHub Metrics
+## 🧩 Highlight Projects
+
+### 🧬 Protein Structure Prediction
+Sequence models (Bi-LSTM / RNN) for Q3 & Q8 classification with F1 optimization.
+
+### 🎬 Cinema Demand Forecasting
+Time-series modeling using booking + POS signals.
+
+### 💬 Comment Classification System
+Text + metadata classification pipeline.
+
+### 🚗 Smart Parking System
+Full-stack Flask + Vue app with scalable backend structure.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23f3001800&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f3001800&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=23f3001800&theme=default&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=23f3001800&show_icons=true&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f3001800&layout=compact&theme=tokyonight" height="165">
 </p>
 
 ---
 
-## Current Direction
+## 🔭 Currently Exploring
 
-- Transformer-based systems  
-- Efficient fine-tuning strategies  
-- Reproducible ML pipelines  
-- Production-grade model deployment  
-
----
-
-## Links
-
-LinkedIn: https://www.linkedin.com/in/vikas-rajput-7127a7309  
-Kaggle: https://kaggle.com/vikas25s  
-Hugging Face: https://huggingface.co/VIKAS25S  
+- Transformer architectures  
+- Efficient fine-tuning (LoRA / PEFT)  
+- Scalable ML pipelines  
+- Production-grade AI systems  
 
 ---
 
-<sub>
-Build systems. Measure performance. Refine continuously.
-</sub>
+## 🌍 Find Me Online
+
+- 💼 LinkedIn: https://www.linkedin.com/in/vikas-rajput-7127a7309  
+- 🧠 Kaggle: https://kaggle.com/vikas25s  
+- 🤗 Hugging Face: https://huggingface.co/VIKAS25S
+- Email: iitianvikas25@gmail.com
+- Google developer: https://g.dev/developervikas 
+
+---
+
+## ⚡ Philosophy
+
+Build → Test → Optimize → Deploy → Repeat 🚀
