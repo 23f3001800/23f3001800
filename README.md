@@ -1,195 +1,75 @@
-<!-- ============================= -->
-<!-- 🚀 PREMIUM AI ENGINEER README -->
-<!-- ============================= -->
-
-<h1 align="center">
-  👋 Hi, I'm Vikas. 
-</h1>
-
-<h5 align="center">
-  🚀 currecntly seeking for - AI Engineer Intern | Machine Learning Engineer Intern | Full-Stack AI Developer Intern
-</h5>
+<h1 align="center">Vikas</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineer;Deep+Learning+Specialist;NLP+%7C+Time+Series+%7C+Computer+Vision;Building+Intelligent+End-to-End+Systems;Always+Learning+%26+Shipping+🚀" />
+AI Systems • Machine Learning • Full-Stack ML
+</p>
+
+<p align="center">
+Build. Measure. Improve. Ship.
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Focus
 
-🎓 Student at IITM BS Degree – Data Science(Expected 2027)
-🤖 AI Engineer passionate about building intelligent, scalable systems  
-📈 Experienced in Deep Learning, NLP, Forecasting & Full-Stack AI Applications  
-⚡ Strong foundation in Mathematics, Optimization & Model Deployment  
-
-I specialize in designing **end-to-end AI systems** — from data pipelines to production-ready ML applications.
-
----
-
-## 🚀 What I Do
-
-- 🧬 Deep Learning for Biological Sequences (Protein Structure Prediction)
-- 💬 NLP Systems for Multi-class Classification
-- 📊 Time-Series Forecasting & Demand Prediction
-- 🌐 Full-Stack AI Applications (Flask + Vue)
-- 📦 Model Deployment & Experiment Tracking
-- 🏗️ Building scalable ML pipelines
+- Deep Learning Systems  
+- NLP & Sequence Models  
+- Time-Series Forecasting  
+- End-to-End ML Pipelines  
+- Deployment-Ready AI  
 
 ---
 
-# 🛠️ Tech Stack
+## 🚀 Selected Projects
 
-## 👨‍💻 Programming Languages
-- Python (Advanced)
-- JAVA
-- SQL
-- JavaScript
+**🧬 Protein Secondary Structure Prediction**  
+Bi-LSTM / RNN models for Q3 & Q8 classification. Optimized for token-level F1.
 
----
+**🎬 Cinema Demand Forecasting**  
+Time-series modeling using POS + booking signals.
 
-## 🤖 Machine Learning & Deep Learning
+**💬 Comment Classification Pipeline**  
+Text embeddings + structured features for multi-class prediction.
 
-- PyTorch
-- PyTorch Lightning
-- TensorFlow / Keras
-- Scikit-learn
-- XGBoost / LightGBM / CatBoost
-- Hugging Face Transformers
-- OpenCV (Computer Vision)
+**🚗 Smart Parking System**  
+Flask + Vue full-stack system with scalable backend architecture.
 
 ---
 
-## 🧠 AI Domains
-
-- Natural Language Processing (NLP)
-- Sequence-to-Sequence Modeling
-- Time-Series Forecasting
-- Deep Neural Networks (RNN, LSTM, GRU)
-- Transformer Architectures
-- Representation Learning
-- Model Optimization & Regularization
-
----
-
-## 📊 Data & Experimentation
-
-- Pandas / NumPy
-- Matplotlib / Seaborn
-- Feature Engineering
-- Cross Validation
-- Hyperparameter Tuning
-- TrackIO
-- Weights & Biases (W&B)
-
----
-
-## 🌐 AI Deployment & MLOps
-
-- Flask (Model APIs)
-- FastAPI
-- Vue.js (Frontend Integration)
-- Docker (Containerization)
-- GitHub Actions (CI/CD Basics)
-- Hugging Face Spaces
-- KaggleHub Model Hosting
-
----
-
-## 🗄️ Databases
-
-- SQLite
-- PostgreSQL
-- MySQL
-- redis
-
----
-
-## ⚙️ Tools & Platforms
-
-- Git & GitHub
-- Kaggle
-- Hugging Face
-- VS Code
-- Linux Environment
-- Jupyter Notebook
-- Antigravity
-
----
-
-# 🧩 Featured AI Projects
-
-## 🧬 Protein Secondary Structure Prediction
-Deep sequence-to-sequence models (Bi-RNN, Bi-LSTM) for Q3 & Q8 classification.  
-→ Focused on token-level F1 optimization and balanced harmonic scoring.
-
-## 🚗 Vehicle Parking App (Full-Stack AI Ready)
-Flask + Vue based smart parking management system with booking logic.
-
-## 🎬 Cinema Audience Forecasting
-Time-series modeling using POS + Online booking signals for attendance prediction.
-
-## 💬 Comment Category Prediction
-NLP classification system combining text embeddings and structured metadata.
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23f3001800&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f3001800&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=23f3001800&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f3001800&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23f3001800&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=23f3001800&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=23f3001800&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Current Focus
+## ⚙️ Stack
 
-- 🔬 Transformer-based architectures
-- 🧠 Efficient fine-tuning (LoRA / PEFT)
-- 📊 Advanced Time-Series Modeling
-- 🚀 Production-ready AI deployment
-- 🏗️ Scalable ML system design
-
----
-
-# 🏆 Competitive Platforms
-
-- Kaggle Competitions
-- Research-based AI modeling
-- Applied AI engineering projects
+Python • PyTorch • Transformers • Scikit-learn  
+Flask • FastAPI • Docker  
+PostgreSQL • Redis  
+Linux • Git  
 
 ---
 
-# 🎯 Career Vision
+## 🌍 Links
 
-To become a high-impact **AI Engineer** building intelligent systems that:
-
-- Scale
-- Generalize
-- Solve real-world problems
-- Bridge research and production
-
----
-
-# 📫 Connect With Me
-
-- 💼 LinkedIn: www.linkedin.com/in/vikas-rajput-7127a7309
-- 🧠 Kaggle: https://kaggle.com/vikas25s
-- 🤗 Hugging Face: https://huggingface.co/VIKAS25S
+- LinkedIn → https://www.linkedin.com/in/vikas-rajput-7127a7309  
+- Kaggle → https://kaggle.com/vikas25s  
+- Hugging Face → https://huggingface.co/VIKAS25S
 - 📧 Email: iitianvikas25@gmail.com
-- Google developer: https://g.dev/developervikas
+- Google developer: https://g.dev/developervikas 
 
 ---
 
-# 🚀 Philosophy
-
-> “Build models that work.  
-> Optimize them to perform.  
-> Engineer them to scale.”
-
----
+<sub>Consistency > Motivation</sub>
