@@ -75,7 +75,8 @@ Text + metadata classification pipeline.
 
 ### 🚗 Smart Parking System
 Full-stack Flask + Vue app with scalable backend structure.
-
+**campusHire in progress**  
+Flask + Vue full-stack system with scalable backend architecture.A centralized platform that connects campus talent with hiring companies. 
 ---
 
 ## 📊 GitHub Stats
