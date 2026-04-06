@@ -1,6 +1,6 @@
 # Hi, I'm Vikas👋
 
-AI Engineer | BS Data Science | Building LLM-powered systems
+Future AI Engineer | BS Data Science | Building LLM-powered systems
 
 ## Live Projects
 
