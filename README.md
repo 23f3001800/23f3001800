@@ -1,117 +1,21 @@
-<!-- ============================= -->
-<!-- 🚀 VIKAS | AI BUILDER README -->
-<!-- ============================= -->
+# Hi, I'm Vikas👋
 
-<h1 align="center">👋 Hi, I'm Vikas</h1>
+AI Engineer | BS Data Science | Building LLM-powered systems
 
-<p align="center">
-Building AI systems • Shipping ML projects • Learning in public 🚀
-</p>
+## Live Projects
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Systems+Builder;Deep+Learning+%7C+NLP+%7C+Time+Series;Full-Stack+ML+Engineer;Ship.+Measure.+Improve." />
-</p>
+| Project | What it does | Stack | Demo |
+|---|---|---|---|
+| [CodeSense](https://github.com/23f3001800/CodeSense) | AI code reviewer — security, bugs, quality, refactor | LangGraph · Gemini | [Live](url) |
+| [AI API Service](https://github.com/23f3001800/cognify-api) | Production FastAPI LLM backend with Docker + Railway | FastAPI · Docker | [Live](url) |
+| [ResearchMind](https://github.com/23f3001800/Autonomous-AI-Research-Agent) | Autonomous research agent — search → extract → report | LangGraph · Tavily | [Live](url) |
+| [DocuMind](https://github.com/23f3001800/DocuMind-AI-Document-Q-A) | RAG document Q&A with citations | LangChain · ChromaDB | [Live](url) |
 
----
+## Stack I work with
+LangChain · LangGraph · LangSmith · FastAPI · Docker · ChromaDB ·
+HuggingFace · Gemini · LoRA fine-tuning · Streamlit · Railway
 
-## 🧠 About
-
-🎓 IITM BS – Data Science (2027)  
-💡 I build end-to-end AI systems — from raw data to deployed applications.  
-⚙️ Focused on practical ML, system design, and scalable model deployment.
-
-This GitHub is where I:
-- Experiment
-- Build real systems
-- Optimize models
-- Deploy ideas
-
----
-
-## 🚀 What You'll Find Here
-
-- 🤖 Deep Learning experiments
-- 📊 Time-series forecasting systems
-- 💬 NLP classification pipelines
-- 🌐 Full-stack AI apps (Flask + Vue)
-- 🏗️ ML system design & deployment setups
-- 📦 Model training + evaluation workflows
-
----
-
-## 🛠️ Tech I Use
-
-**Languages**  
-Python • SQL • JavaScript • Java  
-
-**ML & DL**  
-PyTorch • TensorFlow • Scikit-learn • LightGBM • XGBoost  
-Hugging Face Transformers  
-
-**Data**  
-Pandas • NumPy • Feature Engineering • Cross-validation  
-
-**Deployment**  
-Flask • FastAPI • Docker • GitHub Actions  
-
-**Databases**  
-PostgreSQL • MySQL • SQLite • Redis  
-
-**Environment**  
-Linux • Git • VS Code • Jupyter  
-
----
-
-## 🧩 Highlight Projects
-
-### 🧬 Protein Structure Prediction
-Sequence models (Bi-LSTM / RNN) for Q3 & Q8 classification with F1 optimization.
-
-### 🎬 Cinema Demand Forecasting
-Time-series modeling using booking + POS signals.
-
-### 💬 Comment Classification System
-Text + metadata classification pipeline.
-
-### 🚗 Smart Parking System
-Full-stack Flask + Vue app with scalable backend structure.
-**campusHire in progress**  
-Flask + Vue full-stack system with scalable backend architecture.A centralized platform that connects campus talent with hiring companies. 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=23f3001800&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f3001800&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=23f3001800&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
-
-## 🔭 Currently Exploring
-
-- Transformer architectures  
-- Efficient fine-tuning (LoRA / PEFT)  
-- Scalable ML pipelines  
-- Production-grade AI systems  
-
----
-
-## 🌍 Find Me Online
-
-- 💼 LinkedIn: https://www.linkedin.com/in/vikas-rajput-7127a7309  
-- 🧠 Kaggle: https://kaggle.com/vikas25s  
-- 🤗 Hugging Face: https://huggingface.co/VIKAS25S
-- Email: iitianvikas25@gmail.com
-- Google developer: https://g.dev/developervikas 
-
----
-
-## ⚡ Philosophy
-
-Build → Test → Optimize → Deploy → Repeat 🚀
+## Currently
+- Finishing 30-day AI engineering intensive
+- Open to AI Engineer internships and fresher roles
+- Building in public — follow along
