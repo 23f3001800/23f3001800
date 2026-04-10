@@ -1,45 +1,57 @@
-# Hi, I'm Vikas 👋
+<h1 align="center">Hi 👋 I'm Vikas</h1>
+<h3 align="center">AI Engineer | GenAI | RAG | Multi-Agent Systems | Bengaluru 🇮🇳</h3>
 
-BS Data Science student building production AI systems — agents, RAG pipelines, and domain ML.
-
-***
-
-## What I build
-
-- **Multi-agent systems** — LangGraph supervisor patterns, micro-agent hierarchies, event-driven orchestration, guardrails, and audit trails
-- **RAG pipelines** — hybrid retrieval (BM25 + dense), cross-encoder reranking, RAGAS evaluation, citation grounding
-- **Domain ML** — fine-tuned audio classifiers, NLP pipelines, semantic search
-- **Production APIs** — FastAPI, async Python, Pydantic, Docker-ready, all endpoints typed and validated
+<p align="center">
+  <a href="mailto:iitianvikas25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/vikas-255rajput"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://huggingface.co/Vikas25S"><img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat"/></a>
+</p>
 
 ***
 
-## Featured Projects
+### 🔭 What I Build
 
-| Project | Stack | What it does |
-|---|---|---|
-| [🚢 Ops Agent Simulator](https://github.com/YOUR_USERNAME/ops-agent-simulator) | FastAPI · Redis · Neo4j · asyncio | Event-driven micro-agent hierarchy with guardrails, audit trail, and graph-backed entity context |
-| [🤖 Agentic Research Assistant](https://github.com/YOUR_USERNAME/agentic-research-assistant) | LangGraph · FastAPI · Streamlit | Researcher → Analyst → Writer multi-agent pipeline with per-session memory and confidence guardrails |
-| [📄 DocuMind RAG](https://github.com/YOUR_USERNAME/documind-rag) | LangChain · FAISS · ChromaDB · RAGAS | Production document QA with hybrid BM25+dense retrieval, reranking, and faithfulness evaluation |
-| [🎵 Audio Classification](https://github.com/YOUR_USERNAME/audio-classification-app) | PyTorch · HuggingFace · FastAPI | Fine-tuned audio classifier with async production inference API |
-| [💬 Comment Analysis API](https://github.com/YOUR_USERNAME/comment-analysis-api) | Scikit-learn · FastAPI · ChromaDB | NLP sentiment pipeline with semantic search over indexed comments |
+I build **production-grade AI systems** — not just notebooks. My focus areas:
+- 🤖 **Multi-Agent Systems** — LangGraph, autonomous task routing, event-driven AI
+- 📄 **RAG Pipelines** — Hybrid search, vector databases, confidence guardrails
+- 🚀 **Deployed AI APIs** — FastAPI, Docker, Railway — real endpoints, real throughput
 
 ***
 
-## Stack
+### 🛠️ Tech Stack
 
-`Python` `FastAPI` `LangGraph` `LangChain` `PyTorch` `HuggingFace Transformers`
-`ChromaDB` `FAISS` `Neo4j` `Redis` `Pydantic` `Groq` `Streamlit` `Docker`
+```python
+ai_stack = {
+    "LLM Frameworks": ["LangChain", "LangGraph", "LlamaIndex"],
+    "Vector DBs":      ["FAISS", "ChromaDB", "Pinecone"],
+    "ML/DL":          ["PyTorch", "HuggingFace Transformers", "Scikit-learn"],
+    "APIs":           ["FastAPI", "Pydantic", "REST", "async Python"],
+    "Infra":          ["Docker", "Redis", "Neo4j", "Railway"],
+    "Observability":  ["LangSmith", "Confidence Threshold Routing"],
+}
+```
 
 ***
 
-## Currently learning
+### 🚀 Featured Projects
 
-- LoRA / QLoRA fine-tuning for domain-adapted LLMs
-- MLOps — MLflow experiment tracking, model registries
-- Kubernetes + model serving at scale
+| Project | What It Does | Stack | Demo |
+|---|---|---|---|
+| [Ops Agent Simulator](https://github.com/23f3001800/AgentOps-Engine) | 3-level multi-agent ops automation | LangGraph · Neo4j · Redis · FastAPI | [Live](https://YOUR-RAILWAY-URL) |
+| [Agentic Research Assistant](https://github.com/23f3001800/ReseachMind) | Autonomous web research + structured reports | LangGraph · FAISS · Tavily | [Live](https://YOUR-STREAMLIT-URL) |
+| [DocuMind RAG](https://github.com/23f3001800/documind-rag) | Chat with your documents (hybrid search + guardrails) | LangChain · FAISS · ChromaDB | [Live](https://YOUR-RAILWAY-URL) |
+| [Audio Classifier](https://github.com/23f3001800/dl-genai-project-26-t1) | Fine-tuned Wav2Vec2, 91% accuracy | PyTorch · HuggingFace | [HF Spaces](https://huggingface.co/spaces/23f3001800) |
+| [Comment Analysis API](https://github.com/23f30018000/Comment-Category-Prediction-Challenge) | Sentiment API, 1000 req/min, audit logs | FastAPI · Transformers · Docker | [Live](https://YOUR-RAILWAY-URL) |
 
 ***
 
-📍 Bengaluru, India · Open to **AI Engineering internships**
+### 📊 GitHub Stats
 
-[
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=23f3001800&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f3001800&layout=compact&theme=default&hide_border=true" height="150"/>
+</p>
+
+***
+
+*BS Data Science student · Building in public · Open to AI Engineer roles*
