@@ -7,3 +7,5 @@
   <a href="https://huggingface.co/Vikas25S"><img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat"/></a>
 </p>
 
+
+[![CI/CD — JobTrack AI](https://github.com/23f3001800/JobTrack-AI/actions/workflows/deploy.yml/badge.svg)](https://github.com/23f3001800/JobTrack-AI/actions/workflows/deploy.yml)
