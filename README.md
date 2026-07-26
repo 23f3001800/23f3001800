@@ -1,4 +1,4 @@
-# Hi, I'm Vikas 👋
+## Hi, I'm Vikas 
 
 **AI/ML Engineer** — I build LLM systems meant to survive contact with production, not demos that break the moment they leave a notebook.
 
@@ -18,7 +18,7 @@ I care about retrieval that returns the right thing, agents that don't confident
 
 ---
 
-### 🚀 Featured Projects
+### Projects
 
 | Project | What it is | Highlights |
 |---|---|---|
