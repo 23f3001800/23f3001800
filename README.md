@@ -1,7 +1,7 @@
 # Hi, I’m Vikas
 
 I’m studying Data Science and Applications at IIT Madras and looking for an
-entry-level AI or GenAI engineering role. I work mostly with Python, FastAPI,
+entry-level AI or GenAI or software engineering role. I work mostly with Python, FastAPI,
 PyTorch, and LangGraph.
 
 I like projects where I can inspect why a system failed, test a change, and show
